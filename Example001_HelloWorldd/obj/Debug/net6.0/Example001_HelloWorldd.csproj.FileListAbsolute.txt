@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\bin\Debug\net6.0\Example001_HelloWorldd.exe
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\bin\Debug\net6.0\Example001_HelloWorldd.deps.json
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\bin\Debug\net6.0\Example001_HelloWorldd.runtimeconfig.json
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\bin\Debug\net6.0\Example001_HelloWorldd.dll
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\bin\Debug\net6.0\Example001_HelloWorldd.pdb
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\obj\Debug\net6.0\Example001_HelloWorldd.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\obj\Debug\net6.0\Example001_HelloWorldd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\obj\Debug\net6.0\Example001_HelloWorldd.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\obj\Debug\net6.0\Example001_HelloWorldd.AssemblyInfo.cs
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\obj\Debug\net6.0\Example001_HelloWorldd.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\obj\Debug\net6.0\Example001_HelloWorldd.dll
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\obj\Debug\net6.0\refint\Example001_HelloWorldd.dll
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\obj\Debug\net6.0\Example001_HelloWorldd.pdb
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\obj\Debug\net6.0\Example001_HelloWorldd.genruntimeconfig.cache
+C:\Users\User\Desktop\Exampless\Example001_HelloWorldd\obj\Debug\net6.0\ref\Example001_HelloWorldd.dll
